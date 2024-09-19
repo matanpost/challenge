@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_module_modules",
+  "info": {
+    "displayName": "module"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "discription": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
